@@ -112,9 +112,6 @@ Terraform plan
 The list of changes that Terraform is anticipated to apply to the infrastructure resources should be displayed. The “+” sign indicates what will be added, while the “-” sign indicates what will be removed.
 
 
-![image_alt]()
-
-
 3.4.Now, let’s deploy this infrastructure! Execute the following command to apply the changes and deploy the resources.
 
 Note — Make sure to type “yes” to agree to the changes after running this command
@@ -125,7 +122,7 @@ Terraform apply
 
 Terraform will initiate the process of applying all the changes to the infrastructure. Kindly wait for a few seconds for the deployment process to complete.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Terraform-Gama-Day-Notifications-/blob/3c4a8d4d7b0f06988221071a9d103bbeec7b9379/img/Screenshot%202025-02-10%20203909.png)
 
 
 ## Success!
