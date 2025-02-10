@@ -163,7 +163,7 @@ Check the inbox of the provided email address.
 
 5.1.In the AWS Management Console, head to the AWS Lambda dashboard and verify if the lambda function was successfully created.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Terraform-Gama-Day-Notifications-/blob/be395bf59a521d00d61af5a04b5d88702b3cd29d/img/Screenshot%202025-02-10%20210411.png)
 
 5.2.Lets Create a Test to simulate execution to check if our system is working
 
