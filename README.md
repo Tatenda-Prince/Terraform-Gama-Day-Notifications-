@@ -167,7 +167,7 @@ Check the inbox of the provided email address.
 
 5.2.Lets Create a Test to simulate execution to check if our system is working
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Terraform-Gama-Day-Notifications-/blob/bc017e033ee88be8cbeb8d5dd23215d5c7ca7a0f/img/Screenshot%202025-02-10%20210745.png)
 
 5.3.Run the function and check CloudWatch Logs for errors.
 
