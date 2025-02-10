@@ -107,7 +107,7 @@ The command should generate a success message, confirming that it is valid, as d
 Terraform plan
 ```
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Terraform-Gama-Day-Notifications-/blob/47b48e996e045f95699f605363dadab26857d9a3/img/Screenshot%202025-02-10%20203604.png)
 
 The list of changes that Terraform is anticipated to apply to the infrastructure resources should be displayed. The “+” sign indicates what will be added, while the “-” sign indicates what will be removed.
 
