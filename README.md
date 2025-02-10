@@ -1,4 +1,4 @@
-# Terraform-Gama-Day-Notifications-
+# Terraform-Game-Day-Notifications
 
 "NBA Game Day Notification"
 
