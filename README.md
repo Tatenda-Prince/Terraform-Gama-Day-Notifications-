@@ -59,11 +59,14 @@ Setup Instructions
 
 ```
 
-Step 1:Clone the Repository
+## Step 1:Clone the Repository
 
 1.1.Clone this repository to your local machine
 
 ```language
+git clone https://github.com/Tatenda-Prince/Terraform-Gama-Day-Notifications-.git
+
+cd game-day-notifications
 
 ```
 
