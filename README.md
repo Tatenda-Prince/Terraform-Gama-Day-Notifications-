@@ -141,7 +141,7 @@ The process should now conclude with a message indicating “Apply complete”, 
 
 4.2.Navigate to the Subscriptions tab and click Create subscription.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Terraform-Gama-Day-Notifications-/blob/a28be8ae15fac13d1be0aa620d89d9e205fcf39b/img/Screenshot%202025-02-10%20205042.png)
 
 4.3.Select a Protocol:
 For Email:
