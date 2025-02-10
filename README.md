@@ -130,7 +130,7 @@ Terraform will initiate the process of applying all the changes to the infrastru
 The process should now conclude with a message indicating “Apply complete”, stating the total number of added, modified, and destroyed resources, accompanied by several resources.
 
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Terraform-Gama-Day-Notifications-/blob/56d8b265027df0e10b9e9044240453e1ddf4aab2/img/Screenshot%202025-02-10%20203940.png)
 
 
 
