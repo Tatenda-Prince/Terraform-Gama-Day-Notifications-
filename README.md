@@ -157,7 +157,30 @@ Check the inbox of the provided email address.
 
 4.5.Confirm the subscription by clicking the confirmation link in the email.
 
+![image_alt](https://github.com/Tatenda-Prince/Terraform-Gama-Day-Notifications-/blob/1dbaadfbed3b17a860174f5dd6dea31c0e15c996/img/Screenshot%202025-02-10%20205154.png)
+
+## Step 5: Lets Test Our System if it is working
+
+5.1.In the AWS Management Console, head to the AWS Lambda dashboard and verify if the lambda function was successfully created.
+
 ![image_alt]()
+
+5.2.Lets Create a Test to simulate execution to check if our system is working
+
+![image_alt]()
+
+5.3.Run the function and check CloudWatch Logs for errors.
+
+
+![image_alt]()
+
+
+5.4.Verify that SMS notifications are sent to the subscribed users.
+
+![image_alt]()
+
+
+
 
 
 
