@@ -172,7 +172,7 @@ Check the inbox of the provided email address.
 5.3.Run the function and check CloudWatch Logs for errors.
 
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Terraform-Gama-Day-Notifications-/blob/ef2331f544cde634524b0501a956beedb1028bac/img/Screenshot%202025-02-10%20210955.png)
 
 
 5.4.Verify that SMS notifications are sent to the subscribed users.
