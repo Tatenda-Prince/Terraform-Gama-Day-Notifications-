@@ -179,6 +179,10 @@ Check the inbox of the provided email address.
 
 ![image_alt](https://github.com/Tatenda-Prince/Terraform-Gama-Day-Notifications-/blob/e5b44af349bd9b3166bc46ccf3b5276f52ba73b0/img/Screenshot%202025-02-10%20211603.png)
 
+## Congratulations 
+
+In this project, We have successfully learned how to design a cloud-based notification system using AWS SNS and Lambda, ensuring secure access with least privilege IAM policies. We automated workflows with Amazon EventBridge and integrated an external NBA Open API (SportsDataIO) into our architecture. Additionally, we leveraged Terraform to automate the entire infrastructure as code, making deployment and management more efficient.
+
 
 
 
