@@ -87,7 +87,7 @@ Terraform init
 
 Upon completion of the initialization process, a successful prompt will be displayed, as shown below.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Terraform-Gama-Day-Notifications-/blob/00336aa0891efb4d14c497b2158c9e50a39de78c/img/Screenshot%202025-02-10%20203245.png)
 
 
 3.2.Next, let’s ensure that our code does not contain any syntax errors by running the following command —
