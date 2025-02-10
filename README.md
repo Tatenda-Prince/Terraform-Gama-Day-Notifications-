@@ -177,7 +177,7 @@ Check the inbox of the provided email address.
 
 5.4.Verify that SMS notifications are sent to the subscribed users.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Terraform-Gama-Day-Notifications-/blob/e5b44af349bd9b3166bc46ccf3b5276f52ba73b0/img/Screenshot%202025-02-10%20211603.png)
 
 
 
