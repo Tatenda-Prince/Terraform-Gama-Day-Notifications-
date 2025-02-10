@@ -137,7 +137,7 @@ The process should now conclude with a message indicating “Apply complete”, 
 
 4.1.In the AWS Management Console, head to the Amazon SNS dashboard and verify that the topic was successfully created.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Terraform-Gama-Day-Notifications-/blob/cdbb166fa08d4771be72f1a5cbc11d5759b2e03e/img/Screenshot%202025-02-10%20205028.png)
 
 4.2.Navigate to the Subscriptions tab and click Create subscription.
 
