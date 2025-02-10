@@ -59,16 +59,88 @@ Setup Instructions
 
 ```
 
-## Step 1:Clone the Repository
+## Step 1: Clone the Repository
 
 1.1.Clone this repository to your local machine
 
 ```language
 git clone https://github.com/Tatenda-Prince/Terraform-Gama-Day-Notifications-.git
-
 cd game-day-notifications
 
 ```
+
+## Step 2: Store API Key as secret in Parameter store
+
+2.1.Lets run this aws cli command with your api key to store it in Paremeter store 
+
+```language
+aws ssm put-parameter --name "nba-api-key" --value "<API_KEY>" --type "SecureString"
+```
+
+## ## Step 3: Run Terraform workflow to initialize, validate, plan then apply
+
+3.1.In your local terraform visual code environment terminal, to initialize the necessary providers, execute the following command in your environment terminal —
+
+```language
+Terraform init 
+```
+
+Upon completion of the initialization process, a successful prompt will be displayed, as shown below.
+
+![image_alt]()
+
+
+3.2.Next, let’s ensure that our code does not contain any syntax errors by running the following command —
+
+```language
+Terraform validate
+```
+
+The command should generate a success message, confirming that it is valid, as demonstrated below.
+
+![image_alt]()
+
+
+3.3.Let’s now execute the following command to generate a list of all the modifications that Terraform will apply. —
+
+```language
+Terraform plan
+```
+
+![image_alt]()
+
+The list of changes that Terraform is anticipated to apply to the infrastructure resources should be displayed. The “+” sign indicates what will be added, while the “-” sign indicates what will be removed.
+
+
+![image_alt]()
+
+
+3.4.Now, let’s deploy this infrastructure! Execute the following command to apply the changes and deploy the resources.
+
+Note — Make sure to type “yes” to agree to the changes after running this command
+
+```language
+Terraform apply
+```
+
+Terraform will initiate the process of applying all the changes to the infrastructure. Kindly wait for a few seconds for the deployment process to complete.
+
+![image_alt]()
+
+
+## Success!
+
+The process should now conclude with a message indicating “Apply complete”, stating the total number of added, modified, and destroyed resources, accompanied by several resources.
+
+
+![image_alt]()
+
+
+
+
+
+
+
 
 
 
