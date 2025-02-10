@@ -77,7 +77,7 @@ cd game-day-notifications
 aws ssm put-parameter --name "nba-api-key" --value "<API_KEY>" --type "SecureString"
 ```
 
-## ## Step 3: Run Terraform workflow to initialize, validate, plan then apply
+## Step 3: Run Terraform workflow to initialize, validate, plan then apply
 
 3.1.In your local terraform visual code environment terminal, to initialize the necessary providers, execute the following command in your environment terminal —
 
@@ -133,7 +133,31 @@ The process should now conclude with a message indicating “Apply complete”, 
 ![image_alt](https://github.com/Tatenda-Prince/Terraform-Gama-Day-Notifications-/blob/56d8b265027df0e10b9e9044240453e1ddf4aab2/img/Screenshot%202025-02-10%20203940.png)
 
 
+## Step 4: Verify creation of AWS Lambda, AWS EventBridge and Amazon SNS 
 
+4.1.In the AWS Management Console, head to the Amazon SNS dashboard and verify that the topic was successfully created.
+
+![image_alt]()
+
+4.2.Navigate to the Subscriptions tab and click Create subscription.
+
+![image_alt]()
+
+4.3.Select a Protocol:
+For Email:
+Choose Email.
+Enter a valid email address.
+
+![image_alt]()
+
+4.4.Click Create Subscription.
+If you added an Email subscription:
+Check the inbox of the provided email address.
+
+
+4.5.Confirm the subscription by clicking the confirmation link in the email.
+
+![image_alt]()
 
 
 
