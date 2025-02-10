@@ -148,7 +148,7 @@ For Email:
 Choose Email.
 Enter a valid email address.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Terraform-Gama-Day-Notifications-/blob/dfb3fa3407c7a4909393cf006556def90ea227a9/img/Screenshot%202025-02-10%20205056.png)
 
 4.4.Click Create Subscription.
 If you added an Email subscription:
