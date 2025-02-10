@@ -98,7 +98,7 @@ Terraform validate
 
 The command should generate a success message, confirming that it is valid, as demonstrated below.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Terraform-Gama-Day-Notifications-/blob/88a1ac1c416cf3afdb4090ce9b99b59560789ba7/img/Screenshot%202025-02-10%20203351.png)
 
 
 3.3.Let’s now execute the following command to generate a list of all the modifications that Terraform will apply. —
