@@ -1,4 +1,4 @@
-# Terraform-Game-Day-Notifications
+# Terraform-Driven Game-Day Notifications System for Real-Time Alerts
 
 "NBA Game Day Notification"
 
